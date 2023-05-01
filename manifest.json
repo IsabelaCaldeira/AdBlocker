@@ -1,6 +1,6 @@
 {
     "name": "IsabelaCaldeira AdBlocker",
-    "versao": "1.0",
+    "version": "1.0",
     "description": "My first AdBlocker",
     "permissions": ["webRequest", "wenRequestBlocking", "<all_urls>"],
     "background":{
